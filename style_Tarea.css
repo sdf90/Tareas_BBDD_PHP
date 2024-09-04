@@ -1,0 +1,130 @@
+#body_{
+    /* background-color: deepskyblue; */
+}
+
+
+
+/*EDITAR*/
+#contain_body{
+
+    background-color: lightgray;
+
+    margin-top: 2%;
+    padding: 1%;
+}
+
+#contain_estado{
+    padding: 2%; 
+}
+
+#contain_estado select{
+    margin-right: 2%;
+}
+
+#contain_nombre{
+    padding: 2%;
+}
+
+#contain_descripcion{
+    padding: 2%;
+}
+
+#btn_guardar{
+
+    margin-left: 2%;
+
+}
+
+/*FECHA DE INICIO Y FIN*/
+#ctnr_Fechas{
+    display: inline-block;
+}
+
+.start{
+    --color: indigo;
+
+    border: 2px solid var(--color);
+    font-size: 1.0rem;
+    background: #000d;
+    color: #fff;
+    padding: 5px;
+    border-radius: 6px;
+}
+
+/*Mensaje Error*/
+#mensaje_error{
+    color: red;
+    text-align: center;
+}
+
+
+/*Listar libros*/
+
+#tablalibross{
+    margin-top: 1%;
+}
+
+
+#cntr_cabecera_listar{
+   
+   width: 100%;
+
+   /* background-color: cornflowerblue; */
+
+   margin-bottom: 25px;
+}
+#cntr_cabecera{
+    display: inline;
+}
+
+#cntr_cabecera h1{
+
+    float: left;
+}
+
+#cntr_cabecera_listar a{
+    margin-top: 1%;
+    float: right;
+}
+
+
+#ctnr_crear_cerrar{
+ 
+    width: 100%;
+
+    margin-bottom: 5%;  
+    
+    display: block;
+
+    margin-top: 5%;
+    
+}
+
+#ctnr_crearTarea{
+
+    display: flex;
+   
+    width: 50%;
+    float: left; 
+    
+    margin-bottom: 1%;  
+}
+
+ #ctnr_crearTarea a{
+  margin-right: 2% ;
+} 
+
+
+#ctnr_cerrarSesion{ 
+
+   float: right;
+   
+   width: 50%;  
+
+   /* background-color: aqua; */
+}
+
+#ctnr_cerrarSesion label{
+    margin-left: 75%;
+}
+

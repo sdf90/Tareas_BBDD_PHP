@@ -1,0 +1,128 @@
+/*Index*/
+
+#btn_Registro{
+    margin-top: 2%;
+}
+
+#ctn_Registrar{
+    margin-top: 25px;
+    display: inline;
+    justify-self: left;       
+}
+
+#cnt_Login_Total{
+    background-color:  peru;
+    width: 25%;
+   
+
+}
+
+#cnt_Login{
+    margin-top: 50%;
+    display: block;
+    justify-content: center;  
+    padding: 30px;
+   
+}
+
+#cnt_Login label{
+    margin-left: 25%;
+    font-size: large;
+}
+
+#cnt_Login input{
+    margin-left: 25%;
+}
+
+
+
+#mensaje_error{
+    color: red;
+    text-align: center;
+}
+
+
+#btn_Enviar{
+    margin-left: 25%;
+    margin-bottom: 10px;
+    width: 50%;
+}
+
+
+
+/* REGISTRO */
+
+#body_Registro{
+    background-color: rgba(191, 246, 170, 0.958);
+}
+
+
+#ctnr_Registro{   
+   
+    
+}
+
+
+#ctnr_Formulario{
+
+    margin-top: 15%;
+    margin-left: 40%;
+
+    background-color: aqua;
+    width: 20%;
+
+    padding: 2%;
+}
+
+
+/*Listar usuarios*/
+input[type=checkbox] {
+    transform: scale(1.5);
+}
+
+table{
+    text-align: center;
+}
+
+#cntr_cabecera_user{
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+    width: 100%;
+}
+
+#cntr_cabecera{
+    display: inline;
+}
+
+#cntr_cabecera h1{
+    float: left;
+}
+
+#cntr_cabecera a{
+    margin-top: 1%;
+    float: right;
+}
+
+#ctnr_crearTarea{
+
+    display: flex;
+   
+    width: 50%;
+    float: left; 
+    
+    margin-top: 5%;
+    margin-bottom: 1%;  
+}
+
+#guardar{
+
+  margin-left:2%;
+}
+
+#ctnr_Label_Usuario{
+
+margin-top: 4%;
+margin-left: 5%;
+
+}

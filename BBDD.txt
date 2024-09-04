@@ -1,0 +1,2 @@
+usuario : admin password : 4321
+usuario: juan / maria password : 4321
